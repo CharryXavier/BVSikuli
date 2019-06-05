@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/winium/winium-webdriver/0.1.0-1/winium-webdriver-0.1.0-1.jar" sourcepath="C:/Users/javier.charry/.m2/repository/com/github/2gis/winium/winium-webdriver/0.1.0-1/winium-webdriver-0.1.0-1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/SikuliX/sikulixapi.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/bson-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-4.0.9.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/mongodb-driver-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/mongodb-driver-core-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/extentreports-3.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/bson-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/jsoup-1.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/mongodb-driver-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/mongodb-driver-core-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/ExtentReports/extentreports-java-3.0.6/lib/testng-6.9.10.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
